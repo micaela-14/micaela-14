@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**micaela-14/micaela-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Mi nombre es Micaela Mansilla
+#### Soy estudiante de fullstack
+me encuentro cursando en Rolling Code school
 
-Here are some ideas to get you started:
+Skills:   REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: lucianamansilola2022@gmail.com 
+- ⚡ Fun fact: Estudio en la Universidad Tecnologica Nacional  
+
+
+
+
